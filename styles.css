@@ -9,6 +9,7 @@
   body {
     background: url(static/bg-pattern-top-mobile.svg), url(static/bg-pattern-bottom-mobile.svg);
     background-repeat: no-repeat;
+    background-position: top left, bottom right;
     font-family: 'League Spartan', sans-serif;
     }
 
